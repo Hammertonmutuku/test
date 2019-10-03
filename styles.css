@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+html {
+    display:flex;
+
+    background:url(https://lh3.googleusercontent.com/4JKgStNbAdwvyN5nLNInl_ZoTIyXOw8J0Lc2OVC-4m0qz_zK6fj8TrOyX0P5rcioA-haR5s6kw4G4Om8TwpwbJHU_nAk7l3oArvYnJ0cBdiynSjhARUXBkXYX9n6QqyMGzAjpjVTuA=w2400) no-repeat center center/cover;
+    height:700px;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+    background-color:black;
+    opacity:0.8;
+    padding-left: 30px;
+    padding-top:0px;
+    height:300px;
+    width:1790px;
+    color:white;
+    font-family:palatino;
+    font-size:56px;
+    position: static;
+    
+}
+nav > ul > li {
+    display: inline;
+    padding-left:20px;
+}
+nav {
+    margin-left:600px;
+    font-size:36px;
+}
+li a {
+    color:white;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: dimgray;
+}
+h3 {
+    display:flex;
+    justify-content: center;
+    margin-top:310px;
+    margin-bottom: 300px;
+    color:brown;
+    font-size:70px;
+    font-family:georgia;
+    font-style:italic;
+}
+#upcoming {
+    border: white
+    height:780px;
+    width: 1050px;
+    margin-top:10px;
+    margin-left:0px;
+}
+p {
+    font-family:'Arial Narrow';
+    font-size:24px;
+}
+#quote {
+    border: white;
+    height:600px;
+    width:500px;
+    margin-top:300px;
+    padding-left:100px;
+    font-size:22;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+
+}
+.midsection {
+    display:flex;
+    align-items: center;
+    background-color:#F7F7FA;
+    margin-top:30px;
+}
+#part2 {
+    display: flex;
+justify-content: space-around;
+background-color:#DCE1E3;
+}
+h2 {
+    display:flex;
+    justify-content: center;
+    margin-top:30px;
+    margin-bottom:30px;
+    font-size:36px;
+    color:#38738B;
+}
+figcaption {
+    font-size:20px;
+}
+#approach > ul > li {
+    font-size:22px;
+    padding-right:30px;
+}
+#purpose > ul > li {
+    font-size:20px;
+    padding-right:30px;
+}
+#core > ul > li {
+    font-size:22px;
+    padding-right:30px;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#5C6D59;
+    height:200px;
+}
+.bottom {
+    background-color: dimgrey;
+    display: flex;
+    justify-content: center;
+}
+
+
+

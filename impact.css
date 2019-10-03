@@ -1,0 +1,50 @@
+.navigation {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+nav > ul > li {
+    display: inline;
+    padding-left:20px;
+}
+nav {
+    margin-left:950px;
+    font-size:26px;
+}
+li a {
+    color:black;
+    text-decoration: none;
+}
+h1 {
+    font-family: palatino;
+    font-size: 66;
+    Margin-left:30px;
+}
+h2 {
+    font font-family: courier;
+    font-size:36px;
+}
+#approach > ul > li {
+    font-size:22px;
+    padding-right:30px;
+}
+#purpose > ul > li {
+    font-size:20px;
+    padding-right:30px;
+}
+#core > ul > li {
+    font-size:22px;
+    padding-right:30px;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#5C6D59;
+    height:200px;
+}
+.bottom {
+    background-color: dimgrey;
+    display: flex;
+    justify-content: center;
+}
